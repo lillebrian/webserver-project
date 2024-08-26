@@ -1,0 +1,14 @@
+version: "2"
+services:
+  webserver-project:
+    image: webproject
+    container_name: webproject
+    cap_add:
+      - NET_ADMIN
+    environment:
+      - PUID=1000
+      - GUID=1000
+    ports:
+      - 80:80
+      - 443:443
+    restart: unless-stopped
