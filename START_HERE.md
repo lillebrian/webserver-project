@@ -58,6 +58,22 @@ You're planning a week-long trip to Montenegro (specifically Kotor) from Copenha
 
 ---
 
+### **4. Photo & Visual Guide** 📸
+📄 **[PHOTO_GUIDE.md](PHOTO_GUIDE.md)**
+
+**What's inside:**
+- How to view hundreds of photos of accommodations before booking
+- Where to find destination photos (Kotor, Bay, mountains, beaches)
+- Restaurant and food photo sources
+- Instagram hashtags and YouTube channels to follow
+- Virtual tours with Google Street View
+- Step-by-step visual research process
+- Best photography spots for your own photos
+
+**Read this for:** Seeing what everything actually looks like before you go
+
+---
+
 ## 🎯 Quick Start Guide
 
 ### **Step 1: Get Inspired (15 minutes)**

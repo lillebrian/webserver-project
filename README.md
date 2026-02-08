@@ -9,10 +9,11 @@ This repository also contains comprehensive travel planning guides for a week-lo
 
 ### 📖 Available Guides:
 
-1. **[START_HERE.md](START_HERE.md)** - Overview and navigation guide for all resources
+1. **[START_HERE.md](START_HERE.md)** - Overview and navigation guide for all resources ⭐ START HERE
 2. **[MONTENEGRO_TRAVEL_GUIDE.md](MONTENEGRO_TRAVEL_GUIDE.md)** - Complete Montenegro country guide
 3. **[KOTOR_WEEK_STAY_GUIDE.md](KOTOR_WEEK_STAY_GUIDE.md)** - Detailed Kotor accommodation and planning
 4. **[KOTOR_FLIGHTS_AND_BOOKING.md](KOTOR_FLIGHTS_AND_BOOKING.md)** - Flights from Copenhagen and booking links
+5. **[PHOTO_GUIDE.md](PHOTO_GUIDE.md)** - How to view photos and videos of everything
 
 **Trip Details:**
 - Duration: 7 days
