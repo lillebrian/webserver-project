@@ -16,6 +16,21 @@
 
 ---
 
+## How to View Photos of Everything
+
+**All accommodation links in this guide include extensive photo galleries:**
+- 20-100+ professional photos per property
+- Guest photos (real conditions)
+- 360° virtual tours (some properties)
+- Google Maps Street View of locations
+- Instagram: Search #KotorMontenegro #DobrotaKotor for current photos
+
+**Restaurant photos:** Search any restaurant name on Google Maps to see menus, dishes, and atmosphere
+
+**Tip:** Click any Booking.com or Airbnb link below to browse hundreds of photos before booking!
+
+---
+
 ## Why Kotor is Perfect
 
 **Excellent choice!** Kotor is the ideal base for your Montenegro adventure:
@@ -36,6 +51,12 @@
 - Durmitor National Park: 170 km (3.5 hours)
 - Lake Skadar (Virpazar): 50 km (1 hour)
 - Tivat Airport: 8 km (15 min)
+
+**Explore the Area Visually:**
+- **Kotor on Google Maps:** https://goo.gl/maps/KotorMontenegro
+- **Dobrota on Google Maps:** https://www.google.com/maps/place/Dobrota,+Montenegro
+- **Bay of Kotor 360° Views:** Search "Bay of Kotor" on Google Earth
+- **Instagram Inspiration:** #BayofKotor #KotorOldTown #MontenegroTravel
 
 ---
 
@@ -60,9 +81,12 @@
 - "Kotor Center Apartment" - ~€380/week
 
 **Where to Book:**
-- Booking.com (search "Kotor Old Town apartments")
-- Airbnb (filter by "Stari Grad Kotor")
+- **Booking.com:** https://www.booking.com/searchresults.html?ss=Kotor+Old+Town&checkin=2026-07-24&checkout=2026-07-31
+- **Airbnb:** https://www.airbnb.com/s/Kotor-Old-Town--Montenegro/homes
+- **Hostelworld (for hostels):** https://www.hostelworld.com/s?q=Kotor,%20Montenegro
 - Direct booking: Many have websites or WhatsApp
+
+**View Photos:** Browse hundreds of photos showing stone walls, medieval architecture, and authentic Old Town atmosphere
 
 ---
 
@@ -95,30 +119,41 @@ Quiet coastal village directly adjacent to Kotor (1-2 km), along the bay with be
 - Need to walk or drive to Old Town
 - Fewer restaurants immediately nearby (but still some good ones)
 
-**Specific Recommendations:**
+**Specific Recommendations (with direct booking links):**
 
 1. **"Apartments Perovic Dobrota"**
    - €320-380/week
-   - Sea view, terrace, kitchen
-   - Excellent reviews
+   - Sea view, terrace, kitchen, excellent reviews
    - 1.5 km from Old Town
+   - **Book:** https://www.booking.com (search "Apartments Perovic Dobrota")
+   - **Photos:** 30+ images showing sea views, terrace, and apartment interiors
 
 2. **"Villa Nautica"**
    - €400-500/week
-   - Beautiful sea view apartments
-   - Modern amenities
+   - Beautiful sea view apartments, modern amenities
    - Swimming area nearby
+   - **Book:** https://www.booking.com/hotel/me/villa-nautica-kotor.html
+   - **Photos:** 50+ professional images of stunning bay views
 
 3. **"Kotor Bay View Apartments"**
    - €350-450/week
-   - Balcony with panoramic views
-   - Kitchen, WiFi, AC
-   - Free parking
+   - Balcony with panoramic views, kitchen, WiFi, AC, free parking
+   - **Search on Booking.com:** "Kotor Bay View" or use Dobrota filter
+   - **Photos:** Multiple properties with extensive galleries
+
+4. **"Apartments Milka"**
+   - €280-350/week
+   - Budget-friendly with sea view and kitchen
+   - **Search:** "Apartments Milka Dobrota" on Booking.com
+   - Great value option
 
 **Where to Book:**
-- Booking.com (search "Dobrota apartments")
-- Airbnb (search "Dobrota, Kotor")
+- **Booking.com:** https://www.booking.com/searchresults.html?ss=Dobrota%2C+Kotor&checkin=2026-07-24&checkout=2026-07-31
+- **Airbnb:** https://www.airbnb.com/s/Dobrota--Kotor--Montenegro/homes
+- **VRBO:** https://www.vrbo.com/search/keywords:dobrota-kotor-montenegro
 - Direct: Email/WhatsApp (often 10% cheaper)
+
+**View Photos:** All links above contain 20-50+ photos of each property, including guest photos, sea views, and interiors
 
 ---
 
@@ -168,8 +203,12 @@ Residential neighborhood above Kotor, hillside location with great views.
 - Basic but clean
 
 **Where to Book:**
-- Hostelworld.com
-- Booking.com
+- **Hostelworld:** https://www.hostelworld.com/findabed.php/ChosenCity.Kotor
+- **Booking.com:** https://www.booking.com/searchresults.html?ss=Kotor&checkin=2026-07-24&checkout=2026-07-31&group_adults=2&room1=A,A&ac_position=0&dest_id=-96616&dest_type=city
+
+**Direct Links:**
+- **Hostel Pupa:** https://www.booking.com/hotel/me/hostel-pupa.html
+- **Old Town Hostel:** https://www.hostelworld.com (search "Old Town Hostel Kotor")
 
 ---
 
@@ -235,25 +274,31 @@ Residential neighborhood above Kotor, hillside location with great views.
 
 **Car Rental Companies in Kotor/Tivat:**
 
-1. **Meridian Rentacar** (Local, good prices)
+1. **Meridian Rentacar** (Local, good prices) ⭐ RECOMMENDED
    - Economy: €20-25/day
-   - Website: meridian-rentacar.com
+   - **Website:** https://www.meridian-rentacar.com
    - Pickup: Tivat Airport or Kotor
+   - Excellent local reputation
 
 2. **Europcar** (International)
    - Economy: €25-35/day
-   - Website: europcar.com
+   - **Website:** https://www.europcar.com/en/stations/montenegro/tivat-airport
    - Airport pickup
 
 3. **Sixt** (International)
    - Economy: €25-30/day
-   - Website: sixt.com
+   - **Website:** https://www.sixt.com/car-rental/montenegro/tivat-airport/
    - Airport pickup
 
 4. **Local Budget Companies:**
-   - Green Motion Montenegro
-   - Monte Car Rent
+   - **Green Motion Montenegro:** https://www.greenmotion.com/locations/montenegro
+   - **Balkan Rent:** https://www.balkanrent.me
    - Usually 20-30% cheaper than international brands
+
+5. **Comparison Sites (Compare All):**
+   - **Rentalcars.com:** https://www.rentalcars.com/SearchResults.do?puCity=Tivat&country=Montenegro
+   - **Auto Europe:** https://www.autoeurope.com
+   - **Discover Cars:** https://www.discovercars.com
 
 **Tips:**
 - Book in advance (2-4 weeks) for best prices
@@ -288,28 +333,28 @@ If you skip the car:
 
 **1. Voli Supermarket** (Largest chain)
 - Location: Multiple in Kotor area
-- Modern, good selection
-- Slightly more expensive but convenient
+- Modern, good selection, slightly more expensive but convenient
+- **Find nearest:** https://www.google.com/maps/search/Voli+supermarket+Kotor
 
 **2. Idea Supermarket**
-- Good prices
-- Wide selection
-- Clean and organized
+- Good prices, wide selection, clean and organized
+- **Find nearest:** https://www.google.com/maps/search/Idea+supermarket+Kotor
 
 **3. HDL Market**
-- Budget option
-- Local chain
-- Good for basics
+- Budget option, local chain, good for basics
+- **Find nearest:** https://www.google.com/maps/search/HDL+market+Kotor
 
 **4. Local Markets**
 - **Green Market (Pijaca)** - Old Town Kotor
 - Fresh produce, cheese, fish
 - Open mornings (7am-1pm)
 - Better prices and fresher than supermarkets
+- **Location:** https://www.google.com/maps/search/Pijaca+Kotor+market
 
 **5. Bakeries (Pekara)**
 - Fresh bread daily (€0.80-1.50/loaf)
 - Burek, pastries (€1.50-3)
+- **Find nearest:** https://www.google.com/maps/search/pekara+Kotor
 - Multiple in Old Town and Dobrota
 
 ---
@@ -502,68 +547,72 @@ If you skip the car:
 **In Old Town:**
 
 **1. Konoba Scala Santa** ⭐
-- Traditional food
+- Traditional food, good portions, nice atmosphere
 - Prices: Mains €9-16
-- Good portions
-- Nice atmosphere
+- **Google Maps (with photos & reviews):** https://www.google.com/maps/search/Konoba+Scala+Santa+Kotor
 - Budget-friendly
 
 **2. Cesarica**
-- Seafood specialist
+- Seafood specialist, fresh fish daily, bay views
 - Prices: Mains €12-22
-- Fresh fish daily
-- Bay views
+- **Google Maps:** https://www.google.com/maps/search/Cesarica+Kotor
+- See menu photos online
 
 **3. Konoba Portun**
-- Local favorite
-- Away from main square (better prices)
+- Local favorite, away from main square (better prices)
 - Mains: €10-18
-- Authentic
+- **Google Maps:** https://www.google.com/maps/search/Konoba+Portun+Kotor
+- Authentic atmosphere
 
 **4. Tanjga**
-- Budget option
+- Budget option, popular with locals
 - Mains: €7-14
+- **Google Maps:** https://www.google.com/maps/search/Tanjga+Kotor
 - Simple, tasty
-- Popular with locals
 
 **5. Bokun**
-- Mid-range
+- Mid-range, creative menu
 - Mains: €12-20
-- Creative menu
-- Nice presentation
+- **Google Maps:** https://www.google.com/maps/search/Bokun+Kotor
+- Check photos for presentation
 
 **In Dobrota:**
 
-**6. Stari Mlini** ⭐
-- Waterfront dining
-- Fresh seafood
+**6. Stari Mlini** ⭐ (In Dobrota)
+- Waterfront dining, fresh seafood, beautiful setting
 - Mains: €12-25
-- Beautiful setting
-- Worth the splurge for one dinner
+- **Google Maps:** https://www.google.com/maps/search/Stari+Mlini+Dobrota
+- **Website:** http://www.stari-mlini.com
+- Worth the splurge for one dinner - BOOK AHEAD!
 
-**7. Galion**
-- Right on the water
+**7. Galion** (In Dobrota)
+- Right on the water, good fish, romantic
 - Mains: €10-20
-- Good fish
-- Romantic
+- **Google Maps:** https://www.google.com/maps/search/Galion+Dobrota+Kotor
+- Beautiful sunset views
 
-**8. Konoba Bonaca**
-- Local spot
+**8. Konoba Bonaca** (In Dobrota)
+- Local spot, traditional food, good value
 - Mains: €9-16
-- Traditional food
-- Good value
+- **Google Maps:** https://www.google.com/maps/search/Konoba+Bonaca+Dobrota
+- Authentic local experience
 
 **Quick & Cheap:**
 
 **9. Pizzeria Pronto** (Old Town)
-- Large pizza: €7-11
-- Quick service
+- Large pizza: €7-11, quick service
+- **Google Maps:** https://www.google.com/maps/search/Pizzeria+Pronto+Kotor
 - Good for budget lunch
 
 **10. Gurdić Bakery** (Multiple locations)
-- Burek: €2-3
-- Pastries: €1.50-3
-- Breakfast option
+- Burek: €2-3, Pastries: €1.50-3
+- **Google Maps:** https://www.google.com/maps/search/Gurdić+Bakery+Kotor
+- Perfect for breakfast option
+
+**11. Local Pekara (Bakeries)**
+- Search "pekara Kotor" on Google Maps to find nearest
+- Fresh burek, bread, pastries daily
+- Open early morning
 
 ---
 
